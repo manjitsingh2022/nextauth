@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "Home",
+    "admin": "Admin",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "extra": "Extra",
+    "dashboard": "Dashboard",
+    "about": "About"
+  },
+  "app_title": "i18n News Reader",
+  "active_locale": "English",
+  "button_label": "Read More",
+  "homepage_nav_link_label": "Go Back",
+  "main_title": "A growth mindset means that you thrive on challenge, and don't see failure as a way to describe yourself."
+}

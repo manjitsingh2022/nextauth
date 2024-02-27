@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "admin": "Admin",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "extra": "Supplémentaire",
+    "dashboard": "Dashboard",
+    "about": "À propos"
+},
+
+  "app_title": "Lector de noticias i18n",
+  "active_locale": "Español",
+  "button_label": "Lee mas",
+  "homepage_nav_link_label": "Regresa",
+  "main_title": "Una mentalidad de crecimiento significa que prosperas ante los desafíos y no ves el fracaso como una forma de describirte a ti mismo."
+  
+}
